@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (IMPORTANT)
+data/*.hdf5
+data/*.h5
+*.hdf5
+*.h5
+
+# Environment
+venv/
+.env
+
+# OS
+.DS_Store
